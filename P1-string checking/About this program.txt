@@ -1,1 +1,1 @@
-This program demonstrates how we can check for character repetitions in C without using any datastructures other than string.
+This program demonstrates how we can check for character repetitions in C, python without using any datastructures other than string.
